@@ -3,7 +3,8 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class LoginScreen {
+
+public class LogisticManagementSystem {
     private static final Map<String, String> users = new HashMap<>();
     private static final Map<String, String> userRoles = new HashMap<>();
 
